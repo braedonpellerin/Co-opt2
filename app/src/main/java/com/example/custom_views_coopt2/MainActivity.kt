@@ -13,6 +13,4 @@ class MainActivity : AppCompatActivity()
 
         val smileyView = findViewById<SmileyFaceView>(R.id.smileyView)
     }
-
-
 }
